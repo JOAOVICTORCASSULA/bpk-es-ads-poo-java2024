@@ -15,7 +15,6 @@ public class Main {
         car1.reducePowerMotor();
         car1.activateAccelerator();
         car1.activateBrake();
-
         Car.listCars();
 
     }
